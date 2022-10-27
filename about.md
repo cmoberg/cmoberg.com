@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bio and Resume
+title: Bio and resume
 permalink: /about/
 tags: about
 ---
@@ -22,7 +22,7 @@ Communicating technical and non-technical subject matters to customers and peers
 
 My engineering background has provided me with a patent in network management, I have contributed to several networking standards, and I have been a distinguished member of several engineering standards bodies.
 
-I live in Stockholm with two kids and a spouse and enjoy riding my bike to work. I am an advisor to several early-stage companies and am currently on the board of [Netnod Internet Exchange i Sverige AB](http://www.netnod.se).
+I live in Stockholm with two kids and a spouse and enjoy riding my bike to work. I am an advisor to several early-stage companies and used to be on the board of [Netnod Internet Exchange i Sverige AB](http://www.netnod.se).
 
 ## Work Experience
 
