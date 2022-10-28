@@ -1,14 +1,16 @@
 # Here's how we do it
 
-Build
-```
-$ bundle exec jekyll build
+Build...
+
+```shell
+bundle exec jekyll build
 ```
 
-..and Sync
-```
-$ cd _site
-$ aws s3 sync  . s3://cmoberg.com
+..and sync
 
-$ aws cloudfront create-invalidation --distribution-id E1LJ06HIETFXKH --paths "/*"
+```shell
+cd _site
+aws s3 sync  . s3://cmoberg.com
+
+aws cloudfront create-invalidation --distribution-id E1LJ06HIETFXKH --paths "/*"
 ```

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Arizona does not observe daylight saving
+title:  Arizona simply does not observe daylight saving
 tags: til
 ---
 Today I learned that the state of Arizona does not observe daylight saving time.
