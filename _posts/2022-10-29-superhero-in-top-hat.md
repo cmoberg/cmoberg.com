@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Arizona simply does not observe daylight saving
+title:  The first comic superhero wore a top hat
 tags: til
 ---
 
