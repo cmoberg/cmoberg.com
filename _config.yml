@@ -121,6 +121,7 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jemoji
 # https://github.com/jekyll/jekyll/issues/2938
 exclude:
   - Gemfile
@@ -131,8 +132,5 @@ exclude:
   - vendor
 
 gems: [jekyll-paginate]
-
-plugins:
-  - jemoji
 
 timezone: Europe/Stockholm
