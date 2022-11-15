@@ -5,10 +5,9 @@ permalink: /about/
 tags: about
 ---
 
-
 # Short Speaker Bio
 
-Carl has spent many years solving for automation and orchestration. He started building customer service platforms for ISPs back when people used dial-up for their online activities. He then moved on to focus on making multi-vendor networks programmable through model-driven architectures. Now CTO and co-founder at Avassa, he spends his days obsessing over how to deliver a distributed edge control plane that developers and devops love.
+I have spent many years solving for automation and orchestration. I started building customer service platforms for ISPs back when people used dial-up for their online activities. I then moved on to focus on making multi-vendor networks programmable through model-driven architectures. I am now the CTO and co-founder at Avassa, spending m days obsessing over how to deliver a distributed edge control plane that developers and platform teams love.
 
 # Longer Resume
 
@@ -18,11 +17,11 @@ I am an energetic individual with extensive experience of setting up and driving
 
 My career is focused on building solutions that make the internet run better. Through this, I have acquired a deep understanding of software and networking technologies, product and software processes, and hands-on technology marketing.
 
-Communicating technical and non-technical subject matters to customers and peers is one of my core strengths, and I am a highly regarded public speaker.
+Communicating technical and non-technical subject matters to customers and peers is one of my core passions, and I am a highly regarded public speaker.
 
 My engineering background has provided me with a patent in network management, I have contributed to several networking standards, and I have been a distinguished member of several engineering standards bodies.
 
-I live in Stockholm with two kids and a spouse and enjoy riding my bike to work. I am an advisor to several early-stage companies and used to be on the board of [Netnod Internet Exchange i Sverige AB](http://www.netnod.se).
+I live in Stockholm with two kids and a spouse and enjoy riding my bike to work and, in races. I am an advisor to several early-stage companies and used to be on the board of [Netnod Internet Exchange i Sverige AB](http://www.netnod.se).
 
 ## Work Experience
 
@@ -35,7 +34,7 @@ I was a _Senior Director, Engineering Product Management_ in the Cloud Solutions
 
 My focus was on driving the strategy and vision of Network Service Orchestrator ([NSO](http://cisco.com/go/nso)), a market-leading network automation product suite with 150 major brand customers worldwide and a yearly revenue contribution of 100M USD. I have a team of 6 product managers and development community leaders, and I report to the VP of network automation and orchestration.
 
-Main tasks include:
+Main responsibilities included:
 
 - Aligning strategy and roadmap with market needs through customers, partners, and sales teams
 - Presenting product vision and strategy to customers and partners, as well as analysts and journalists
