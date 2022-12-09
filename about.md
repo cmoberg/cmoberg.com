@@ -32,7 +32,7 @@ I am a co-founder and CTO at [Avassa](https://avassa.io). We are hard at work so
 ### Cisco Systems _(2014 - 202)_
 I was a _Senior Director, Engineering Product Management_ in the Cloud Solutions and Platform Group. I arrived at Cisco through the acquisition of Tail-f Systems in 2014.
 
-My focus was on driving the strategy and vision of Network Service Orchestrator ([NSO](http://cisco.com/go/nso)), a market-leading network automation product suite with 150 major brand customers worldwide and a yearly revenue contribution of 100M USD. I have a team of 6 product managers and development community leaders, and I report to the VP of network automation and orchestration.
+My focus was on driving the strategy and vision of the Network Service Orchestrator ([NSO](http://cisco.com/go/nso)), a market-leading network automation product suite with 150 major brand customers worldwide and a yearly revenue contribution of 100M USD. I lead a team of 6 product managers and development community leaders, reporting to the VP of network automation and orchestration.
 
 Main responsibilities included:
 
