@@ -68,7 +68,7 @@ vk_id:
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
 share_facebook: false
-share_twitter: falsez
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
@@ -115,7 +115,7 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     4
+paginate:     10
 sass:
   style: compressed
 plugins:

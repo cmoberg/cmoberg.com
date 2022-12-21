@@ -7,7 +7,7 @@ tags: about
 
 # Short Speaker Bio
 
-I have spent many years solving for automation and orchestration. I started building customer service platforms for ISPs back when people used dial-up for their online activities. I then moved on to focus on making multi-vendor networks programmable through model-driven architectures. I am now the CTO and co-founder at Avassa, spending m days obsessing over how to deliver a distributed edge control plane that developers and platform teams love.
+I have spent many years solving for automation and orchestration. I started building customer service platforms for ISPs back when people used dial-up for their online activities. I then moved on to focus on making multi-vendor networks programmable through model-driven architectures. I am now the CTO and co-founder at Avassa, spending my days obsessing over how to deliver a distributed edge control plane that developers and platform teams love.
 
 # Longer Resume
 
