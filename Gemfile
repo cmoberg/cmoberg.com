@@ -7,3 +7,5 @@ gem 'github-pages'
 gem 'jekyll-paginate'
 gem "webrick", "~> 1.7"
 gem 'jemoji'
+
+gem "jekyll-mastodon_webfinger", "~> 1.0"

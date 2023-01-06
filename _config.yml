@@ -122,6 +122,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll/mastodon_webfinger
+
 # https://github.com/jekyll/jekyll/issues/2938
 exclude:
   - Gemfile
@@ -131,6 +133,8 @@ exclude:
   - screenshot.png
   - vendor
 
-gems: [jekyll-paginate]
-
 timezone: Europe/Stockholm
+
+mastodon:
+  username: cmoberg
+  instance: mastodon.social
