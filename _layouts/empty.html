@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+{% include head.html %}
+<body class="site{% if site.animated %} animated fade-in-down{% endif %}">
+  <div class="site-wrap">
+    <header class="site-header px2 px-responsive">
+      <div class="mt2 wrap">
+        <div class="measure">
+          <a href="{{ "/" | relative_url }}" class="site-title">{{ site.title }}</a>
+      </div>
+    </header>
+    <div class="post p2 p-responsive wrap" role="main">
+      <div class="measure">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+
+  {% include footer.html %}
+</body>
+</html>
