@@ -29,7 +29,7 @@ I live in Stockholm with two kids and a spouse and enjoy riding my bike to work 
 I am a co-founder and CTO at [Avassa](https://avassa.io). We are hard at work solving the fundamental challenges of building a robust, secure and lovable application-management system for the distributed edge cloud.
 
 
-### Cisco Systems _(2014 - 202)_
+### Cisco Systems _(2014 - 2020)_
 I was a _Senior Director, Engineering Product Management_ in the Cloud Solutions and Platform Group. I arrived at Cisco through the acquisition of Tail-f Systems in 2014.
 
 My focus was on driving the strategy and vision of the Network Service Orchestrator ([NSO](http://cisco.com/go/nso)), a market-leading network automation product suite with 150 major brand customers worldwide and a yearly revenue contribution of 100M USD. I lead a team of 6 product managers and development community leaders, reporting to the VP of network automation and orchestration.
