@@ -4,7 +4,7 @@ email:       callemoberg@gmail.com
 author:      Carl Moberg
 description: "Carl Moberg"
 baseurl:     ""
-url:         "http://cmoberg.com"
+url:         "https://cmoberg.com"
 date_format: "%B %-d, %Y"
 header_pages:
  - about.md
@@ -113,8 +113,6 @@ text:
 
 # Build settings
 markdown:     kramdown
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
 paginate:     10
 sass:
