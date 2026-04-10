@@ -1,0 +1,274 @@
+:root {
+  --font-body: 'Source Serif 4', Georgia, serif;
+  --font-ui: 'Inter', system-ui, sans-serif;
+  --font-mono: 'Fira Code', 'Courier New', monospace;
+  --color-text: #1a1a1a;
+  --color-muted: #6b7280;
+  --color-link: #1d4ed8;
+  --color-link-hover: #1e3a8a;
+  --color-bg: #fff;
+  --color-border: #e5e7eb;
+  --max-width: 640px;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-text);
+  background: var(--color-bg);
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: var(--color-link);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--color-link-hover);
+  text-decoration: underline;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--color-border);
+  padding: 1.5rem 0;
+  margin-bottom: 2rem;
+}
+
+.header-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.site-title {
+  font-family: var(--font-ui);
+  font-size: 1rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  color: var(--color-text);
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.site-avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+}
+
+.site-title:hover {
+  text-decoration: none;
+  color: var(--color-text);
+}
+
+nav a {
+  margin-left: 1.5rem;
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  color: var(--color-muted);
+}
+
+nav a:hover {
+  color: var(--color-text);
+  text-decoration: none;
+}
+
+main {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 1.5rem 4rem;
+}
+
+.site-footer {
+  border-top: 1px solid var(--color-border);
+  padding: 2rem 0;
+  margin-top: 4rem;
+}
+
+.footer-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  color: var(--color-muted);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-links a {
+  margin-left: 1rem;
+  color: var(--color-muted);
+}
+
+/* Intro section */
+.intro {
+  background: #f5f0e8;
+  border-left: 3px solid #c8b89a;
+  padding: 1rem 1.25rem;
+  margin-bottom: 2.5rem;
+  border-radius: 2px;
+}
+
+.intro p {
+  font-family: var(--font-ui);
+  margin: 0 0 0.75rem;
+  color: var(--color-text);
+}
+
+.intro-links {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.intro-links a {
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  color: var(--color-muted);
+  margin-left: 0;
+}
+
+.intro-links a:hover {
+  color: var(--color-text);
+  text-decoration: none;
+}
+
+.intro-links a + a::before {
+  content: '·';
+  padding: 0 0.35rem;
+  color: var(--color-muted);
+}
+
+/* Post list */
+.post-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.post-item {
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.post-item:last-child {
+  border-bottom: none;
+}
+
+.post-meta {
+  font-family: var(--font-ui);
+  font-size: 0.8rem;
+  color: var(--color-muted);
+  margin-bottom: 0.25rem;
+}
+
+.post-title {
+  font-family: var(--font-ui);
+  font-weight: 500;
+  margin: 0 0 0.5rem;
+  font-size: 1.2rem;
+}
+
+.post-summary {
+  margin: 0;
+  color: var(--color-muted);
+  font-size: 0.95rem;
+}
+
+.post-tags {
+  margin-top: 0.5rem;
+}
+
+.tag {
+  font-family: var(--font-ui);
+  font-size: 0.7rem;
+  background: #f3f4f6;
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  color: var(--color-muted);
+  margin-right: 0.25rem;
+  letter-spacing: 0.02em;
+}
+
+/* Article */
+article h1 {
+  font-size: 1.8rem;
+  margin-bottom: 0.25rem;
+}
+
+article .post-meta {
+  margin-bottom: 2rem;
+}
+
+article p {
+  margin-top: 0;
+  margin-bottom: 1.2rem;
+}
+
+article h2, article h3 {
+  margin-top: 2rem;
+}
+
+article blockquote {
+  border-left: 3px solid var(--color-border);
+  margin: 1.5rem 0;
+  padding: 0 1.5rem;
+  color: var(--color-muted);
+}
+
+article code {
+  font-family: var(--font-mono);
+  font-size: 0.85em;
+  background: #f5f5f5;
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+
+article pre code {
+  background: none;
+  padding: 0;
+}
+
+article pre {
+  background: #f5f5f5;
+  padding: 1rem;
+  border-radius: 4px;
+  overflow-x: auto;
+  font-size: 0.85rem;
+}
+
+/* Pages */
+.page-title {
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Pagination */
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3rem;
+  font-size: 0.9rem;
+}
+
+.pagination a {
+  color: var(--color-muted);
+}
