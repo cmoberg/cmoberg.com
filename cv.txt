@@ -1,0 +1,199 @@
+Carl Moberg
+Field CTO · Co-Founder · $175M Exit (Tail-f Systems, acquired by Cisco)
+Stockholm, Sweden (previously based in Silicon Valley, CA · open to relocation)
+callemoberg@gmail.com
+
+────────────────────────────────────────────────────────────────────────────────
+
+EXECUTIVE PROFILE
+
+Technology executive and hands-on Field CTO with a 25-year track record at the
+intersection of infrastructure automation and AI deployment. Co-founded Avassa
+Systems, where he built the technical and commercial foundation for enterprise
+edge AI at scale. Drove $100M+ revenue products at Cisco and a $175M acquisition
+at Tail-f Systems. Experienced in developer ecosystems, enterprise go-to-market,
+and translating complex distributed systems into compelling technical narratives
+for customers, partners, and the industry. Active at the policy and standards
+layer — including expert engagements with the European Commission and technical
+working group participation in the Linux Foundation.
+
+Areas of Expertise: Thought Leadership / Product Positioning · AI/ML
+Infrastructure · Edge Computing · Platform Strategy · Developer Ecosystems ·
+Go-to-Market Execution · Network Automation · Distributed Systems · Enterprise
+Architecture · Product Leadership · API Design · Cloud-Native / Containers ·
+LLM Integration · MCP / AI Agent Orchestration · Technical Keynote & Conference
+Speaking
+
+────────────────────────────────────────────────────────────────────────────────
+
+PROFESSIONAL EXPERIENCE
+
+Avassa Systems, Co-founder & CTO
+March 2020 – May 2026 · Stockholm, Sweden
+
+Co-founded Avassa to solve deployment and operations of containerised
+applications and AI/ML inference workloads at the distributed edge — a segment
+underserved by hyperscale cloud platforms. Venture-backed, with enterprise
+customers across manufacturing, retail, and critical infrastructure. As CTO, led
+technology vision, product positioning, partner network, analyst relations, and
+technical go-to-market.
+
+  · Defined the company's market position and product thesis. Identified target
+    customer segments, mapped the competitive position against hyperscale
+    platforms and legacy vendors, and developed the technical narrative used in
+    analyst briefings, enterprise sales, and investor communications. Recruited
+    and onboarded the company's first marketing hire.
+  · Led analyst relations, securing recognition from Gartner (Cool Vendor, Edge
+    Computing 2022), Intellyx (Digital Innovation Award, Winter 2024), and QKS
+    Group (SPARK Matrix: Edge Management & Orchestration, 2025) — establishing
+    Avassa as a recognised name in the edge computing analyst community.
+  · Expanded the platform to support AI/ML inference at the edge, enabling
+    enterprise customers in manufacturing, retail, and critical infrastructure to
+    run low-latency model inference across distributed OT/IT environments without
+    cloud dependency.
+  · Pioneered MCP-based AI agent orchestration for edge operations, enabling
+    engineers to manage distributed infrastructure through natural language
+    interfaces.
+
+────────────────────────────────────────────────────────────
+
+Cisco, Senior Director of Product Management
+August 2014 – March 2020 · Stockholm, Sweden
+
+Joined Cisco through the acquisition of Tail-f Systems, taking a senior role in
+the Service Provider Business Unit. Led product management for Cisco's Network
+Services Orchestrator (NSO), a network automation platform serving 150 major
+enterprise and service provider customers with $100M+ annual revenue
+contribution.
+
+  · Led product strategy and GTM execution across Cisco's global service
+    provider base, spanning orchestration of virtualised and cloud-native
+    networks — directly influencing a $100M+ revenue product line.
+  · Drove NSO product roadmap through a major industry transition to SDN, NFV,
+    and network programmability, maintaining platform relevance and expanding the
+    addressable market through API-first and developer ecosystem investment.
+  · Built and led a team of product managers and developer community leaders,
+    creating the partner and ISV ecosystem programmes that extended NSO's reach
+    beyond Cisco's direct sales motion.
+  · Collaborated with engineering, sales, and field teams across North America,
+    Europe, and Asia-Pacific to align product direction with enterprise
+    architecture requirements at scale.
+
+────────────────────────────────────────────────────────────
+
+Tail-f Systems AB, Employee #3
+VP Engineering → COO → VP Technology / North America CTO
+June 2006 – August 2014 · Stockholm, Sweden & Silicon Valley, CA
+
+Joined as the third employee in 2006 and held roles spanning engineering,
+operations, and technology leadership as the company scaled from founding to a
+$175M acquisition by Cisco in 2014. Built the ConfD and NCS product lines that
+became the basis of Cisco NSO.
+
+  · VP Engineering (2006–2008): Built and led the founding engineering
+    organisation through early-stage growth, from initial product to a stable
+    team on consistent release cadences.
+  · COO (2007–2010): Ran day-to-day operations including finance, customer
+    success, and partnerships as the company scaled from early startup to
+    product-market fit and revenue growth.
+  · VP Technology / North America CTO (2010–2014): Led global commercialisation
+    of ConfD and NCS. Relocated to Silicon Valley in 2013 to establish US
+    operations, drive strategic partnerships, and lead technical sales engagement
+    in the period leading up to the $175M Cisco acquisition.
+
+────────────────────────────────────────────────────────────
+
+ServiceFactory AB, Co-founder & Director
+November 1999 – May 2006 · Stockholm, Sweden
+
+Co-founded ServiceFactory, a developer of customer service and provisioning
+platforms for internet service providers. Designed and implemented the core
+platform architecture; transitioned from technical founder to Director, leading
+product lifecycle management, roadmap, pricing, and go-to-market execution.
+
+────────────────────────────────────────────────────────────
+
+Telia AB, Senior Network Architect / Network Operations Engineer
+January 1997 – November 1999 · Stockholm, Sweden
+
+One of the principal architects of Telia's second-generation internet services
+platform — an industry first supporting diverse access types and application
+services to millions of subscribers. Defined and maintained the architecture of
+the European and North American IP transport network, with active participation
+in IETF and RIPE. As Postmaster of the telia.com domain, operated an email
+infrastructure serving 750,000 subscribers across three countries.
+
+────────────────────────────────────────────────────────────────────────────────
+
+BOARD & ADVISORY EXPERIENCE
+
+  · Netnod Internet Exchange i Sverige AB, Board Member — 2020–2023
+  · Pocket Media Group, Chairman — December 2010–March 2012
+  · Birdstep Technology, Advisor — 2006–2011
+
+────────────────────────────────────────────────────────────────────────────────
+
+SELECTED INDUSTRY ENGAGEMENTS
+
+  · Margo (Linux Foundation), Technical Working Group Member — edge computing
+    interoperability initiative
+  · European Commission, Expert Interview — edge node deployment, 2024
+  · IETF YANG Doctors, Expert Reviewer, 2017–2021
+  · CableLabs, Contributing Engineer
+  · Metro Ethernet Forum, Member & Contributor
+
+────────────────────────────────────────────────────────────────────────────────
+
+SELECTED PATENTS & PUBLICATIONS
+
+  · Patent: Detecting and Managing Recurring Patterns in Device and Service
+    Configuration Data (US10462010B2)
+    https://patents.google.com/patent/US20140201838A1/
+  · IETF RFC: RFC 8199, YANG Module Classification (IETF, 2017)
+    https://datatracker.ietf.org/doc/html/rfc8199
+  · Publication: A Next Generation Provisioning Architecture for the New Cable
+    Headend Platform (CableLabs)
+  · Analyst Recognition: Gartner Cool Vendor, Edge Computing, 2022 — Avassa
+  · Award: Intellyx Digital Innovation Award, Winter 2024 — Avassa
+  · Analyst Recognition: QKS Group SPARK Matrix: Edge Management &
+    Orchestration Platforms, 2025 — Avassa
+  · Award: 2016 Telly Award, for web content created for This Week in Tech
+    (TWiT) at Cisco
+
+────────────────────────────────────────────────────────────────────────────────
+
+SELECTED TALKS
+
+  · From Lab to Field: Operating AI Models Across Thousands of Edge Devices,
+    embedded world, Nuremberg 2026
+  · MCP Meets Edge Management: Using Claude as an Edge Operations Interface,
+    2025 (31 min)
+    https://www.youtube.com/watch?v=HQf6I6qRNrc
+  · Building an Infrastructure Stack for AI-Ready IT/OT, SPS 2025 (16 min)
+    https://www.youtube.com/watch?v=kqdGVdKY2Us
+  · Panel: The Future of Industrial Edge Computing, Hannover Messe 2025
+  · Charmed by Linux, Haunted by VMs: A Container-First Lifestyle at the Edge,
+    TechEx 2024 (25 min)
+    https://www.youtube.com/watch?v=KD2sM083NOo
+  · How to Achieve Cloud-Like Operations for Distributed Edge Deployments,
+    Edge Computing World, Santa Clara 2022 (20 min)
+    https://www.youtube.com/watch?v=jfuyY4ucFaA
+  · Avassa presents at Edge Field Day 3, Edge Field Day 3, 2024
+    https://avassa.io/webinars/avassa-presents-at-edge-field-day-3/
+
+────────────────────────────────────────────────────────────────────────────────
+
+EDUCATION
+
+KTH Royal Institute of Technology · Studies in Electrical Engineering
+1993–1995 · No degree conferred; left to join Telia's internet operations team
+
+────────────────────────────────────────────────────────────────────────────────
+
+PERSONAL
+
+Languages: Swedish (native), English (fluent)
+
+Avid cyclist; commutes year-round and competes in masters races. Knows an
+unreasonable amount about electro-acoustic and drone music. Has been known to
+write a fable or two - yes, the kind with animals that finishes with a saying.
